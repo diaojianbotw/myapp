@@ -1,0 +1,15 @@
+.login_bg{
+	background-image: url("../img/login_bg.png");
+	/* 图片起始位置 */
+	background-position: center;
+	/* 图片是否重复 */
+	background-repeat: no-repeat;
+	/* 属性设置背景图像是否固定或者随着页面的其余部分滚动 fixed-不移动 */
+	background-attachment: fixed;
+	text-align: center;
+}
+
+#pic{
+	width:100%;
+	margin-top: 30px
+}
